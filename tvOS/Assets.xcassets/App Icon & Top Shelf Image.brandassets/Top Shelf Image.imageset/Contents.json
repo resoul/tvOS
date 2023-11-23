@@ -1,10 +1,12 @@
 {
   "images" : [
     {
+      "filename" : "New Project-2.png",
       "idiom" : "tv",
       "scale" : "1x"
     },
     {
+      "filename" : "New Project.png",
       "idiom" : "tv",
       "scale" : "2x"
     }

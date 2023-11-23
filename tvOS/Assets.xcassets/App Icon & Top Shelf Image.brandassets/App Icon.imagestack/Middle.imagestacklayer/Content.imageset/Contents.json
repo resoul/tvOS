@@ -1,10 +1,12 @@
 {
   "images" : [
     {
+      "filename" : "Template - App Icon Small - 400 x 240 pt.png",
       "idiom" : "tv",
       "scale" : "1x"
     },
     {
+      "filename" : "Template - App Icon Small - 400 x 240 pt (P3) @2x.png",
       "idiom" : "tv",
       "scale" : "2x"
     }
